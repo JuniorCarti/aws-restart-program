@@ -2,17 +2,17 @@
 
 ## AWS re/Start Program - Challenge Lab Solution
 
-### 📝 Description
+### Description
 This repository contains the solution for the Bash Shell Scripting Challenge Lab, which creates 25 empty files with incremental numbering starting from the last existing file number.
 
-### 🎯 Challenge Requirements
+### Challenge Requirements
 - Create 25 empty (0 KB) files
 - File naming pattern: `<name><number>` (e.g., Ridge1, Ridge2, etc.)
 - Automatically detect the last file number and continue incrementally
 - No hard-coded numbers
 - Display directory listing for verification
 
-### 📁 Files Included
+### Files Included
 
 #### 1. `file_generator.sh`
 - Basic version of the script
@@ -28,7 +28,7 @@ This repository contains the solution for the Bash Shell Scripting Challenge Lab
   - Execution summary
   - Error handling
 
-### 🚀 Usage
+### Usage
 
 ```bash
 # Make scripts executable
@@ -40,7 +40,7 @@ chmod +x advanced_file_generator.sh
 
 # Run the advanced script
 ./advanced_file_generator.sh
-🔧 Features
+Features
 Automatic Number Detection: Finds the highest existing file number
 
 Incremental Creation: Creates next 25 files automatically
@@ -51,7 +51,7 @@ Error Handling: Manages file creation errors gracefully
 
 Progress Tracking: Shows creation progress (advanced version)
 
-📊 Example Output
+Example Output
 First run:
 
 text
@@ -66,9 +66,9 @@ Created: Ridge26
 Created: Ridge27
 ...
 Created: Ridge50
-👨‍💻 Author
+Author
 Ridge Junior Abuto
 AWS re/Start Program Participant
 
-📅 Date
+Date
 Created: 2025-10-23
