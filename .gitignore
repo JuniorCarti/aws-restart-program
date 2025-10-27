@@ -1,0 +1,20 @@
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Apache configuration (sensitive)
+httpd.conf
