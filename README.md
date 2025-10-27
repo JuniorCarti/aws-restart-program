@@ -12,12 +12,12 @@ Successfully built a secure AWS VPC infrastructure and deployed a web server as 
 - **Routing**: Internet Gateway and proper route tables
 
 ## Lab Objectives Completed
-✅ Created a virtual private cloud (VPC)  
-✅ Created public and private subnets across multiple AZs  
-✅ Configured security groups with proper inbound rules  
-✅ Launched an EC2 instance into the VPC  
-✅ Deployed and tested a web server with Apache  
-✅ Troubleshooted connection and configuration issues  
+Created a virtual private cloud (VPC)  
+Created public and private subnets across multiple AZs  
+Configured security groups with proper inbound rules  
+Launched an EC2 instance into the VPC  
+Deployed and tested a web server with Apache  
+Troubleshooted connection and configuration issues  
 
 ## Technical Stack
 - **Cloud Provider**: AWS
@@ -34,6 +34,3 @@ Successfully built a secure AWS VPC infrastructure and deployed a web server as 
 - Web server deployment
 - Troubleshooting and problem-solving
 - Linux system administration
-
-## Project Status
-✅ Complete and fully functional
